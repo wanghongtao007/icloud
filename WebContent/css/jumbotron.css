@@ -1,0 +1,17 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family: 'microsoft yahei',Arial,sans-serif;
+}
+
+
+
+.jumbotron{
+	background:url(../images/cloud.jpg);
+	background-position: 50% 20%;
+	height:450px;
+    
+}
+
+    
